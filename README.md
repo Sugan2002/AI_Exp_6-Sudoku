@@ -126,8 +126,8 @@ print("\n\n\nThe time required to solve the sudoku puzzle : {0} seconds".format(
 ```
 
 ## OUTPUT:
+![Capture](https://user-images.githubusercontent.com/77089743/173546919-88b012b3-31f5-4711-9329-d717a0ac23fb.PNG)
 
-![Screenshot_719](https://user-images.githubusercontent.com/75235455/172880825-0abfca98-a868-46e3-84f8-ee18c0751f7a.png)
 
 
 ## RESULT:
