@@ -20,9 +20,6 @@ We reduce the puzzle using the two strategies.
 ### STEP 5:
 Search function is defined to find the final solution to a given sudoku puzzle.
 
-## Sudoku puzzle
-
-![Screenshot_718](https://user-images.githubusercontent.com/75235455/172880014-26de2263-a3df-467c-a77a-e2a0c7e077fb.png)
 
 
 ## PROGRAM:
@@ -110,7 +107,7 @@ def search(values):
 
             
     return values
-p='..4.5....9..7346....3.21.49.35.9.48..9.....3..76.1.92.31.97.2....9182..3....6.1..'
+    p='.1.....6..2.....3.9.......1..28.64....69.23....43.71......8....73.....58.8.2.1.9.'
 
 start_time = time.time()
 p1=grid_values_improved(p)
