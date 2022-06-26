@@ -1,4 +1,7 @@
-# Sudoku Solver
+### EX NO : 06
+### DATE  : 07-06-2022
+# <p align="center">Sudoku Solver </p>
+ 
 ## AIM:
 To develop a code to solve a given sudoku puzzle.
 
@@ -121,6 +124,11 @@ display(result)
 time_taken=time.time() - start_time
 print("\n\n\nThe time required to solve the sudoku puzzle : {0} seconds".format(time_taken))
 ```
+
+</br>
+</br>
+</br>
+</br>
 
 ## OUTPUT:
 ![Capture](https://user-images.githubusercontent.com/77089743/173546919-88b012b3-31f5-4711-9329-d717a0ac23fb.PNG)
